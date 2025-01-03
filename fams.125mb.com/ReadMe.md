@@ -1,0 +1,2 @@
+                                                        <----------DESCRIPTION---------->
+                The Facility Access Monitoring System (FAMS) helps faculty track who uses the rooms or laboratories, record the time and duration of their use, and allow users to book classrooms or labs in advance. It shows room availability to prevent double-booking or conflicts, ensuring rooms are used responsibly and scheduled properly.
